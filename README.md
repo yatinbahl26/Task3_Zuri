@@ -6,7 +6,7 @@ The Image Gallery Web Application is a web-based platform for discovering inform
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## [Demo Link](https://hngtask3jagmeet.netlify.app/)
+## [Demo Link](https://hngtask3yatin.netlify.app/)
 
 ## Getting Started
 

@@ -22,7 +22,7 @@ pnpm dev
 1. Clone the repository:
 
 ```bash
-https://github.com/jagmeetkaur03/Task3_Zuri.git
+https://github.com/yatinbahl26/Task3_Zuri.git
 ```
 
 2. Install dependencies:
